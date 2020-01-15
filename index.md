@@ -23,8 +23,3 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects), 
 ## Local News
 - Anyone is welcome to join us at our chapter meetings. RSVP for upcoming events through our [meetup page](https://meetup.com/owasp-slc/).
 
-{info.md}
-
-{leaders.md}
-
-
