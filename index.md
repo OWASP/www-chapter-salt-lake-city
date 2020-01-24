@@ -4,8 +4,7 @@ layout: col-sidebar
 title: OWASP Salt Lake
 tags: example-tag
 level: 0
-region: United States
-
+region: North America
 auto-migrated: 1
 
 ---
