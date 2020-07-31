@@ -6,6 +6,9 @@ tags: example-tag
 level: 0
 region: North America
 auto-migrated: 1
+meetup-group: owasp-slc
+country: USA
+postal-code: 84101
 
 ---
 
