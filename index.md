@@ -13,7 +13,7 @@ postal-code: 84101
 ---
 
 ## Welcome
-Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We currently meet every other month during lunch. Location rotates between various supporting companies. Join us at our chapter meetings. RSVP for upcoming events through our [meetup page](https://meetup.com/owasp-slc/).
+Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We try to meet monthly over MeetUp and Zoom. Join us at our chapter meetings. RSVP for upcoming events through our [meetup page](https://meetup.com/owasp-slc/).
 
 ## Upcoming Event(s)
 To be confirmed, but we are planning on meeting on Thursday, March 25 and having a guest presenter dive into implementation specifics on Static and Dynamic Application Security Testing (SAST/DAST) and Software Composition Analysis (SCA).
