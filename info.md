@@ -3,4 +3,6 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-slc/)
+* Slack
+* Twitter
 <!-- * [Social Link](#) -->
