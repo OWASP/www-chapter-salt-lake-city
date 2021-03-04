@@ -13,13 +13,17 @@ postal-code: 84101
 ---
 
 ## Welcome
-Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We try to meet monthly over MeetUp and Zoom. Join us at our chapter meetings. RSVP for upcoming events through our [meetup page](https://meetup.com/owasp-slc/).
+Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We try to meet monthly and do so virtually for now. 
+* Join us virtually at our upcoming chapter meetings (RSVP for upcoming events through our [meetup page](https://meetup.com/owasp-slc/))
+* Chat with us on [Slack](https://join.slack.com/t/wasatchappsec/shared_invite/zt-h8yyr334-Jz0aQD6CiXMzc5P3e_3JxA)
+* Follow u on Twitter
 
 ## Upcoming Event(s)
-To be confirmed, but we are planning on meeting on Thursday, March 25 and having a guest presenter dive into implementation specifics on Static and Dynamic Application Security Testing (SAST/DAST) and Software Composition Analysis (SCA).
+[Thursday, March 25 @ noon](https://www.meetup.com/owasp-slc/events/276739981/) - Agenda to be confirmed
 
 ## Recent Event(s)
-We met virtually on Thursday, February 25 and discussed SAST/DAST/SCA and how and where to integrate them into your development lifecycle.
+We met virtually on Thursday, February 25 and discussed SAST/DAST/SCA and how and where to integrate them into your development lifecycle. 
+See all [recent events in MeetUp](https://www.meetup.com/owasp-slc/events/past/).
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
