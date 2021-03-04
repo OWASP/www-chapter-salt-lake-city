@@ -16,7 +16,7 @@ postal-code: 84101
 Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We try to meet monthly and do so virtually for now. 
 * Join us virtually at our upcoming chapter meetings (RSVP for upcoming events through our [meetup page](https://meetup.com/owasp-slc/))
 * Chat with us on [Slack](https://join.slack.com/t/wasatchappsec/shared_invite/zt-h8yyr334-Jz0aQD6CiXMzc5P3e_3JxA)
-* Follow u on Twitter
+* Follow us on Twitter
 
 ## Upcoming Event(s)
 [Thursday, March 25 @ noon](https://www.meetup.com/owasp-slc/events/276739981/) - Agenda to be confirmed
