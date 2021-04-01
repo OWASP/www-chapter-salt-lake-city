@@ -19,10 +19,14 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-[Thursday, March 25 @ noon](https://www.meetup.com/owasp-slc/events/276739981/) - Agenda to be confirmed
+[Thursday, April 29 @ noon](https://www.meetup.com/owasp-slc/events/) we plan to talk about
+* Application security metrics
+* The new OWASP Top 10 update
+* Mis-use/abuse test cases and how they can help detect broken access controls
 
 ## Recent Event(s)
-We met virtually on Thursday, February 25 and discussed SAST/DAST/SCA and how and where to integrate them into your development lifecycle. 
+We met virtually on Thursday, March 25 and heard from Clint Gibler on [SemGrep](https://semgrep.dev/) as a way to perform intelligent static code analysis. 
+
 See all [recent events in MeetUp](https://www.meetup.com/owasp-slc/events/past/).
 
 ## Participation
