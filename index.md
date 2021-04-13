@@ -2,10 +2,9 @@
 
 layout: col-sidebar
 title: OWASP Salt Lake
-tags: example-tag
+tags: owasp-slc wasatch-appsec
 level: 0
 region: North America
-auto-migrated: 1
 meetup-group: owasp-slc
 country: USA
 postal-code: 84101
