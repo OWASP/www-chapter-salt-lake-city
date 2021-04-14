@@ -18,7 +18,7 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-[Thursday, April 29 @ noon](https://www.meetup.com/owasp-slc/events/) we plan to talk about
+[Thursday, April 29 @ noon](https://www.meetup.com/owasp-slc/events/277554172/) we plan to talk about
 * Application security metrics
 * The new OWASP Top 10 update
 * Mis-use/abuse test cases and how they can help detect broken access controls
