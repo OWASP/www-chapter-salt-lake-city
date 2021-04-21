@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Salt Lake
+title: OWASP Salt Lake City
 tags: owasp-slc wasatch-appsec
 level: 0
 region: North America
