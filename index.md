@@ -18,11 +18,13 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-[Thursday, May 27 @ noon](https://www.meetup.com/owasp-slc/events/278109538/) we plan to talk about
-* TBD
+No meeting planned for July, we'll meet again late August
 
 ## Recent Event(s)
-We met virtually on Thursday, April 29th and talked about AppSec metrics. 
+We met virtually and in person at Murray Park on Wednesday, June 23rd and talked about:
+* n-tier architecture vs SPAs,
+* Ransomware and how it relates to AppSec,
+* Risk metrics (two books were mentioned: How to Measure Anything in Cybersecurity by Douglas W Hubbard and Data-Driven Computer Defense by Roger Grimes)
 
 See all [recent events in MeetUp](https://www.meetup.com/owasp-slc/events/past/).
 
