@@ -18,14 +18,14 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* September 29, 2021 - Virtual Meetup - https://www.meetup.com/owasp-slc/events/280319857/
 * October - TBD
 
 ## Recent Event(s)
-We met virtually and in person at Murray Park on Wednesday, June 23rd and talked about:
-* n-tier architecture vs SPAs,
-* Ransomware and how it relates to AppSec,
-* Risk metrics (two books were mentioned: How to Measure Anything in Cybersecurity by Douglas W Hubbard and Data-Driven Computer Defense by Roger Grimes)
+We met virtually  on Wednesday, September 29th and talked about:
+* Career progression in AppSec (from entry level up to technical tracks and management),
+* How participating in conferences and events (e.g., CTF) can help entry level candidates,
+* Impostor syndrom is common in this industry and we all often have to look things up or refresh our memory or learn something new,
+* How technical leaders provide value by "scaling their services" (helping others be more effective).
 
 See all [recent events in MeetUp](https://www.meetup.com/owasp-slc/events/past/).
 
