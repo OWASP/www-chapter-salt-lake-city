@@ -18,7 +18,8 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-No meeting planned for July, we'll meet again late August
+* September 29, 2021 - Virtual Meetup - https://www.meetup.com/owasp-slc/events/280319857/
+* October - TBD
 
 ## Recent Event(s)
 We met virtually and in person at Murray Park on Wednesday, June 23rd and talked about:
