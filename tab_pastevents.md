@@ -7,6 +7,10 @@ order: 1
 tags: Events-tag
 ---
 
-## Past Events
+# Past Events
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+## September 29, 2021
+* Career progression in AppSec (from entry level up to technical tracks and management),
+* How participating in conferences and events (e.g., CTF) can help entry level candidates,
+* Impostor syndrom is common in this industry and we all often have to look things up or refresh our memory or learn something new,
+* How technical leaders provide value by "scaling their services" (helping others be more effective).
