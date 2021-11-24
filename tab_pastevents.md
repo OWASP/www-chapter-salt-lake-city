@@ -4,7 +4,7 @@ displaytext: Past Events
 layout:  null
 tab: true
 order: 1
-tags: Events-tag
+tags: owasp-slc wasatch-appsec
 ---
 
 # Past Events
