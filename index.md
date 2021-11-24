@@ -22,9 +22,9 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 
 ## Recent Event(s)
 We met virtually on Monday, November 22nd and talked about:
-* OWASP's new (2021) Top 10: https://owasp.org/Top10/
+* OWASP's new [Top 10](https://owasp.org/Top10/) 2021
 * OWASP Top 10 is almost entirely categories now with SSRF the last Top 10 that sounds like a single vulnerability; most are collections of dozens of CWEs
-* XSS is now part of the broad injection category, but in some ways, a lot of these could be linked into even broader categories in the same way; there's a lot of overlap as illustrated by a venn diagram that was shared, but it was for the 2017 Top 10: https://www.owasptopten.org/thedata
+* XSS is now part of the broad injection category, but in some ways, a lot of these could be linked into even broader categories in the same way; there's a lot of overlap as illustrated by a [venn diagram](https://www.owasptopten.org/thedata) that was shared, but it was for the 2017 Top 10
 * Lots of company's use OWASP Top 10 for training
 * Top 10 can also be used for threat modeling/checklists or as a way to check tool/process coverage (e.g., does tool X find OWASP Top 10 A??)
 
