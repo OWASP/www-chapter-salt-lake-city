@@ -18,9 +18,13 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* We may do an informal meetup in December, but otherwise we'll see you in 2022!
+February 2022 Details
+* https://www.meetup.com/owasp-slc/events/283687099/
 
 ## Recent Event(s)
+Thursday, January 12
+* Developer Training
+
 We met virtually on Monday, November 22nd and talked about:
 * OWASP's new [Top 10](https://owasp.org/Top10/) 2021
 * OWASP Top 10 is almost entirely categories now with SSRF the last Top 10 that sounds like a single vulnerability; most are collections of dozens of CWEs
