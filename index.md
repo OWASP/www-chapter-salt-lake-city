@@ -24,6 +24,7 @@ February 2022 Details
 ## Recent Event(s)
 Thursday, January 12
 * Developer Training
+* Round Table Discussion
 
 We met virtually on Monday, November 22nd and talked about:
 * OWASP's new [Top 10](https://owasp.org/Top10/) 2021
