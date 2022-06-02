@@ -21,13 +21,13 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 ### June 2022 - Security Innovation CTF - Hosted By Spiff
 * Thursday, June 23, 2022 from 4pm to 10pm
 * Security Innovation and Spiff (spiff.com) have teamed up to host a CTF for the community! Participation is your choice, either in-person with pizza prizes at the Spiff campus (9815 Monroe St, Sandy, UT 84070) or virtually via the Zoom link provided.
-* https://www.meetup.com/owasp-slc/events/285212255/
+* [https://www.meetup.com/owasp-slc/events/285212255/](https://www.meetup.com/owasp-slc/events/285212255/)
 
-### July 2022 - no planned activities, take a summer break
+### July 2022 - no planned activities (summer break)
 
 ### October 2022 - SAINTCON
 * October 25-28
-* https://saintcon.org/
+* [https://saintcon.org/](https://saintcon.org/)
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
