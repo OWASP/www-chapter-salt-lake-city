@@ -11,6 +11,10 @@ tags: owasp-slc wasatch-appsec
 
 See all [recent events in MeetUp](https://www.meetup.com/owasp-slc/events/past/).
 
+## August 25, 2022 - Tokens
+* Talked about all the various kinds of tokens in use in web applications; used to primarily be session cookies, but now there are refresh, access, JWT, bearer, self-contained tokens and more.
+* Talked about maintaining the controls of immediately logging out users and logging out any other sessions of a particular account when their password is changed. This is trickier in a microservices architecture that relies on self-contained and non-revokable access tokens to be performant. Solutions include managing expectations by telling partners and penetration testers that your access tokens will stay alive up to 5-10 minutes (or whatever you set their expiration to be) even after the session is destroyed. Also talked about setting up a revoked list that would have to be disseminated to all microservices in some way (list should be short if it is only users who click the log out button or other user sessions when a user changes their password and the list can be purged once the tokens expire naturally anyway).
+
 ## February 22, 2022 - Mobile App Pen testing
 * It's getting harder (to jailbreak and analyze)
 * [Pentesting iOS without a jailbreak](https://medium.com/securing/pentesting-ios-apps-without-jailbreak-91809d23f64e)
