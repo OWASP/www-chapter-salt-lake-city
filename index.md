@@ -12,18 +12,23 @@ postal-code: 84101
 ---
 
 ## Welcome
-Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We try to meet monthly and do so virtually for now. 
-* Join us virtually at our upcoming chapter meetings (RSVP for upcoming events through our [meetup page](https://meetup.com/owasp-slc/))
+Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We try to meet monthly and for 2023 we plan to alternate between virtual and in person meetings each month. 
+* Join us at our upcoming chapter meetings (RSVP for upcoming events through our [meetup page](https://meetup.com/owasp-slc/))
 * Chat with us on [Slack](https://join.slack.com/t/wasatchappsec/shared_invite/zt-13qvps985-B7jASji3qgZxpDGtNumNVA)
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-### September 2022
-* TBD
+### February 2023
+* TBD, probably virtual
 
-### October 2022 - SAINTCON
-* October 25-28
-* [https://saintcon.org/](https://saintcon.org/)
+## Recent Events
+### January 24th, 2023 - In person at HealthEquity
+* HealthEquity hosted an onsite meet-up in Draper.
+* We discussed third party scripts and how to secure them:
+  * Discussed use of SRI for versioned scripts and how a CSP offers partial protection for dynamic scripts that can't be protected via SRI (primarily by preventing an attacker from including scripts from domains not allowed on the CSP).
+  * Some script vendors are so big (e.g., Google) that if they were compromised, your company probably wouldn't be in the news even from the downstream impact, but if your script vendor is smaller and your data is sensitive, you could be the headline.
+  * Limiting these types of risky scripts to less-used pages or only loading them when the user wants to use the functionality could help limit impact.
+  * Other potential solutions include scanning the scripts (before as a preventive solution or even after as a detective solution [Seth had a solution along these lines]), using iframes, and/or using a tool like feroot.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
