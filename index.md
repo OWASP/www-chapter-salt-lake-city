@@ -18,8 +18,18 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-### February 2023
-* TBD, probably virtual
+### February 23rd, 2023
+* Zoom virtual meeting
+
+## Rest of 2023 Calendar
+* March 30 - in person
+* April 27 - virtual
+* May 25 - in person
+* June 29 - virtual
+* July 27 - camping
+* August 31 - virtual
+* September 28 - in person
+* October 26 - virtual
 
 ## Recent Events
 ### January 24th, 2023 - In person at HealthEquity
