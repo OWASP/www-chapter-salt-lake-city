@@ -18,11 +18,10 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-### February 23rd, 2023
-* Zoom virtual meeting
+### February 30th, 2023
+* In person, location TBD but probably near downtown SLC
 
 ## Rest of 2023 Calendar
-* March 30 - in person
 * April 27 - virtual
 * May 25 - in person
 * June 29 - virtual
@@ -32,6 +31,11 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * October 26 - virtual
 
 ## Recent Events
+### February 23rd, 2023 - virtual
+* Talked mainly about metrics
+  * How do you show value to your leadership (finding bugs earlier in SDLC and fixing them quicker; show value in $ of saved engineer time, customer happiness)
+  * Mentioned Doug Hubbard's (the author) book on How to Measure Anything in Cybersecurity
+  * Success stories
 ### January 24th, 2023 - In person at HealthEquity
 * HealthEquity hosted an onsite meet-up in Draper.
 * We discussed third party scripts and how to secure them:
