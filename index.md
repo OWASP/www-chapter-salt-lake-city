@@ -18,7 +18,7 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-### February 30th, 2023
+### March 30th, 2023
 * In person, location TBD but probably near downtown SLC
 
 ## Rest of 2023 Calendar
