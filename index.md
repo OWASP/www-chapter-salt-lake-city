@@ -36,11 +36,13 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Use the Monte Carlo method to understand annual loss expectancy
 * https://docs.google.com/spreadsheets/d/1if1MTESnwY31_Qm4MfPnUZrl4GtP0toRG8xS2OZIXfQ/edit?usp=sharing
 * You need to cater your presentation to your audience; some folks like critical/high/medium/low classifications, some might want $ amounts like annual loss expectancy
+
 ### February 23rd, 2023 - virtual
 * Talked mainly about metrics
   * How do you show value to your leadership (finding bugs earlier in SDLC and fixing them quicker; show value in $ of saved engineer time, customer happiness)
   * Mentioned Doug Hubbard's (the author) book on How to Measure Anything in Cybersecurity
   * Success stories
+
 ### January 24th, 2023 - In person at HealthEquity
 * HealthEquity hosted an onsite meet-up in Draper.
 * We discussed third party scripts and how to secure them:
