@@ -18,11 +18,10 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-### March 30th, 2023
-* In person, location TBD but probably near downtown SLC
+### April 27th, 2023
+* virtual
 
 ## Rest of 2023 Calendar
-* April 27 - virtual
 * May 25 - in person
 * June 29 - virtual
 * July 27 - camping
@@ -31,6 +30,12 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * October 26 - virtual
 
 ## Recent Events
+### March 30th, 2023 - In person at Salt Lake County building
+* How to Measure Anything in CyberSecurity
+* How do you calculate the likelihood of an incident occuring?
+* Use the Monte Carlo method to understand annual loss expectancy
+* https://docs.google.com/spreadsheets/d/1if1MTESnwY31_Qm4MfPnUZrl4GtP0toRG8xS2OZIXfQ/edit?usp=sharing
+* You need to cater your presentation to your audience; some folks like critical/high/medium/low classifications, some might want $ amounts like annual loss expectancy
 ### February 23rd, 2023 - virtual
 * Talked mainly about metrics
   * How do you show value to your leadership (finding bugs earlier in SDLC and fixing them quicker; show value in $ of saved engineer time, customer happiness)
