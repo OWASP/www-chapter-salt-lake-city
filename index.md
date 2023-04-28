@@ -18,18 +18,21 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-### April 27th, 2023
-* virtual
+### May 25th, 2023
+* in person (park)
+* Book Club: Discuss Project Zero Trust ([goodreads link](https://www.goodreads.com/book/show/60659055-project-zero-trust))
 
 ## Rest of 2023 Calendar
-* May 25 - in person
 * June 29 - virtual
-* July 27 - camping
+* July 14-15 - camping
 * August 31 - virtual
 * September 28 - in person
 * October 26 - virtual
 
 ## Recent Events
+### April 27th, 2023 - virtual
+* Mike McCabe spoke to us about Terraform and Infrastructure as Code security
+
 ### March 30th, 2023 - In person at Salt Lake County building
 * How to Measure Anything in CyberSecurity
 * How do you calculate the likelihood of an incident occuring?
