@@ -18,7 +18,8 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* September 28 - in person
+* Career coaching lunch - Sept 5 - in person at Thai Land restaurant in Draper
+* Formal meetup - September 28 - in person
 
 ## Rest of 2023 Calendar
 * October 26 - virtual
