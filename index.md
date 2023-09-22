@@ -18,13 +18,20 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* Career coaching lunch - Sept 5 - in person at Thai Land restaurant in Draper
-* Formal meetup - September 28 - in person
+* October 26 - virtual
+* SaintCon
 
 ## Rest of 2023 Calendar
-* October 26 - virtual
+* TBD
 
 ## Recent Events
+### September 21st, 2023
+* In person at Weave in Lehi
+* Seth Law presented on Modern vs Old 5k00l AppSec
+* Some key points were
+  * Ware report from 1970 and how many of the same issues (usually with different names) still exist today
+  * AppSec is not a "point solution" in that you can't just implement a SAST/DAST tool and think it is solved
+
 ### August 30th, 2023
 * Virtual
 * Testing with Nuclei - Justin
