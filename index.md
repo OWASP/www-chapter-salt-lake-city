@@ -18,11 +18,10 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* October 26 - virtual
-* SaintCon
+* November 30, 12pm at Slapfish in Lehi
 
 ## Rest of 2023 Calendar
-* TBD
+* Enjoy the Holidays
 
 ## Recent Events
 ### September 21st, 2023
