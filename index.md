@@ -12,18 +12,23 @@ postal-code: 84101
 ---
 
 ## Welcome
-Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We try to meet monthly and for 2023 we plan to alternate between virtual and in person meetings each month. 
+Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We try to meet monthly and for 2024 we plan to alternate between virtual and in person meetings each month. 
 * Join us at our upcoming chapter meetings (RSVP for upcoming events through our [meetup page](https://meetup.com/owasp-slc/))
 * Chat with us on [Slack](https://join.slack.com/t/wasatchappsec/shared_invite/zt-1wgxnyqpt-FgwaUExorcc3o5gbdpFdhw)
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* November 30, 12pm at Slapfish in Lehi
+* April - TBD
 
-## Rest of 2023 Calendar
-* Enjoy the Holidays
+## Rest of 2024 Calendar
+* TBD
 
 ## Recent Events
+### March 20th, 2024
+* Virtual meet up
+* We talked about using HMACs in various situations vs other solutions
+* We also talked about envelop encryption and using it to encrypt specific fields in a database
+
 ### September 21st, 2023
 * In person at Weave in Lehi
 * Seth Law presented on Modern vs Old 5k00l AppSec
