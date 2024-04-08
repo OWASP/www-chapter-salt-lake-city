@@ -18,7 +18,8 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* April - Date and time: TBD
+* April 25 at noon
+* HealthEquity (121 W Scenic Pointe Drive, Draper)
 * We will be discussing the book Nine Lies About Work and how it can relate to our roles in AppSec
 
 ## Rest of 2024 Calendar
