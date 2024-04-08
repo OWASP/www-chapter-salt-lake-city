@@ -23,7 +23,7 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * We will be discussing the book Nine Lies About Work and how it can relate to our roles in AppSec
 
 ## Rest of 2024 Calendar
-* TBD
+* In May we plan to meet in person, probably Murray Park
 
 ## Recent Events
 ### March 20th, 2024
