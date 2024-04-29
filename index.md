@@ -18,14 +18,19 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* April 25 at noon
-* HealthEquity (121 W Scenic Pointe Drive, Draper)
-* We will be discussing the book Nine Lies About Work and how it can relate to our roles in AppSec
+* May 29, 2024 in person at Murray Park
+* Talk about AI, how to use it, testing it, LLMs, OWASP Top 10
 
 ## Rest of 2024 Calendar
-* In May we plan to meet in person, probably Murray Park
+* June 26 will probably be virtual.
 
 ## Recent Events
+### April 25, 2024
+* Met at HealthEquity's office
+* We talked about the book Nine Lies About Work and how it can relate to AppSec and working with Security Champions and Developers.
+* Talked about doing "Bug of the Month" to help raise awareness.
+* Thinking about Lie #8, we discussed how developers love solving problems so try to leverage that for your AppSec program.
+
 ### March 20th, 2024
 * Virtual meet up
 * We talked about using HMACs in various situations vs other solutions
