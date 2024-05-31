@@ -18,13 +18,20 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* May 29, 2024 in person at Murray Park
-* Talk about AI, how to use it, testing it, LLMs, OWASP Top 10
+* June 26, 2024 - virtual
+* Proposed topic: Imposter syndrom, sleep, stress management
 
 ## Rest of 2024 Calendar
-* June 26 will probably be virtual.
+* TBD
 
 ## Recent Events
+### May 29, 2024
+* Met at Murray Park
+* Talked about AI helping us to automate our AppSec jobs by assisting us in performing code reviews or threat modeling.
+* Challenges of getting deterministic results that are accurate.
+* Small Language Models (see Louis Barrett's talk from LASCON).
+
+
 ### April 25, 2024
 * Met at HealthEquity's office
 * We talked about the book Nine Lies About Work and how it can relate to AppSec and working with Security Champions and Developers.
