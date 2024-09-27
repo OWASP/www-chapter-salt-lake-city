@@ -18,13 +18,21 @@ Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* June 26, 2024 - virtual
-* Proposed topic: Imposter syndrom, sleep, stress management
+* November
+* Vote for new OWASP leaders (and thanks to Cameron and Seth L for multiple years of service)
+* Pick a book to read over the break
 
 ## Rest of 2024 Calendar
-* TBD
+* Winter Break in December, make sure to read for the book discussion in January
 
 ## Recent Events
+### September 26, 2024
+* Met at Aumni's Cottonwood Heights office
+* Talked about SDLC
+* How do you move fast without breaking things
+* You can only fix security bugs as fast as you can release
+* Talked about passing the torch to new group leaders
+
 ### May 29, 2024
 * Met at Murray Park
 * Talked about AI helping us to automate our AppSec jobs by assisting us in performing code reviews or threat modeling.
