@@ -12,18 +12,13 @@ postal-code: 84101
 ---
 
 ## Welcome
-Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We try to meet monthly and for 2024 we plan to alternate between virtual and in person meetings each month. 
+Welcome to the OWASP Salt Lake City Chapter (aka your local appsec support group). We try to meet most months and we plan to alternate between virtual and in person meetings. 
 * Join us at our upcoming chapter meetings (RSVP for upcoming events through our [meetup page](https://meetup.com/owasp-slc/))
 * Chat with us on [Slack](https://join.slack.com/t/wasatchappsec/shared_invite/zt-1wgxnyqpt-FgwaUExorcc3o5gbdpFdhw)
 * Follow us on Twitter
 
 ## Upcoming Event(s)
-* November
-* Vote for new OWASP leaders (and thanks to Cameron and Seth L for multiple years of service)
-* Pick a book to read over the break
-
-## Rest of 2024 Calendar
-* Winter Break in December, make sure to read for the book discussion in January
+* January 22, 2025 - Discuss Tanya Janca's Alice and Bob Learn Application Security on-site at HealthEquity's office (121 W Scenic Pointe Dr)
 
 ## Recent Events
 ### September 26, 2024
